@@ -1,0 +1,17 @@
+<p> Nombres de personas que conozco <p/>
+<ul>
+<li> MARIA </li>
+<li> ABEL </li>
+<li> ANDREINA </li>
+<li> CHRISTIAN </li>
+<li> THIAGO </li>
+</ul>
+
+P { 
+background-color: black;
+color: white;
+}
+li {
+color: #000000;
+background.color: #fabada;
+}
