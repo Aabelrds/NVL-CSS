@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<metacharset="utf-8">
+<title> MI PAGINA WEB CON CSS </title>
+<style>
+div {
+background color: black;
+color: white;
+margin: 5px;
+text-align: center
+border: 10px
+}
+h1 {
+color: red
+}
+</style>
+</head>
+<body>
+<div>
+<h1> <b> Esta es mi primera página web </b> </h1>
+<p> Aquí estoy experimentando al añadir estilos css a mi html </p>
+</div>
+</body>
+</html>
